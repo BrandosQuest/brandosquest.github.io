@@ -6,13 +6,14 @@ subtitle: check robots.txt file. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Brando's_profilePic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>brando.calderara@gmail.com</p>
     <p>Brescia, Italy</p>
-    <p></p>
+    
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 #announcements:
@@ -26,8 +27,8 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, I'm Brando, I'm a student at [Università degli studi di Brescia](https://www.unibs.it/it).  
+I'm attending a bachelors course in [Ingegneria delle tecnologie per l'impresa digitale](https://corsi.unibs.it/it/tecnologieimpresadigitale)
+(a similar course to Computer or Electronic Engineering, with a more integrated approach).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more specific information about how to contact me (address, phone number), please write an email.
